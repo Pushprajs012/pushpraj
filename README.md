@@ -11,6 +11,12 @@
 - 💬 Ask me about **Android Development (Java, Kotlin) & Flutter**
 - 💎 Reach me at **pushprajs012@gmail.com**
 
+  ---
+
+## 📱 Live Projects
+### 🎯 [Ritanya Sanstha](https://play.google.com/store/apps/details?id=com.ritanyasanstha&hl=en_IN)
+An Android application with features like **video calling, Firebase notifications, and more**.
+
 ---
 
 ## 🚀 Connect with me:

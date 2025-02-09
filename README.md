@@ -19,14 +19,6 @@ An Android application with features like **video calling, Firebase notification
 
 ---
 
-## 🚀 Connect with me:
-<p align="left">
-<a href="https://twitter.com/pushprajs012" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/pushprajs012" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" /></a>
-<a href="https://github.com/pushprajs012" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="40" width="40" /></a>
-</p>
-
----
 
 ## 🛠️ Languages and Tools:
 <p align="left">
@@ -40,6 +32,17 @@ An Android application with features like **video calling, Firebase notification
 </p>
 
 ---
+
+
+## 🚀 Connect with me:
+<p align="left">
+<a href="https://twitter.com/pushprajs012" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/pushprajs012" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" /></a>
+<a href="https://github.com/pushprajs012" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="40" width="40" /></a>
+</p>
+
+---
+
 
 ## 📊 GitHub Stats:
 <p align="center">

@@ -55,5 +55,4 @@ An Android application with features like **video calling, Firebase notification
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushprajs012&layout=compact&theme=radical" />
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/Pushprajs012/Pushprajs012/main/dist/github-contribution-grid-snake.svg)
 

@@ -1,3 +1,5 @@
+![GitHub Profile Banner](https://raw.githubusercontent.com/Pushprajs012/Pushprajs012/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Pushpraj Singh</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Android+%26+Flutter+Developer;APK+Reverse+Engineering+Lover&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG">
